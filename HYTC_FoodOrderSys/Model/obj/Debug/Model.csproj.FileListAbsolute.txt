@@ -1,0 +1,14 @@
+E:\毕业设计\我的毕业设计\HYTC_FoodOrderSys\Model\bin\Debug\Model.dll
+E:\毕业设计\我的毕业设计\HYTC_FoodOrderSys\Model\bin\Debug\Model.pdb
+E:\毕业设计\我的毕业设计\HYTC_FoodOrderSys\Model\obj\Debug\Model.dll
+E:\毕业设计\我的毕业设计\HYTC_FoodOrderSys\Model\obj\Debug\Model.pdb
+E:\毕业设计\我的毕业设计\HYTC_FoodOrderSys\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+E:\毕业设计\毕业设计相关文件\3-24\HYTC_FoodOrderSys\Model\bin\Debug\Model.dll
+E:\毕业设计\毕业设计相关文件\3-24\HYTC_FoodOrderSys\Model\bin\Debug\Model.pdb
+E:\毕业设计\毕业设计相关文件\3-24\HYTC_FoodOrderSys\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+E:\毕业设计\毕业设计相关文件\3-24\HYTC_FoodOrderSys\Model\obj\Debug\Model.dll
+E:\毕业设计\毕业设计相关文件\3-24\HYTC_FoodOrderSys\Model\obj\Debug\Model.pdb
+E:\毕业设计\我的毕业设计\3-24\HYTC_FoodOrderSys\Model\bin\Debug\Model.dll
+E:\毕业设计\我的毕业设计\3-24\HYTC_FoodOrderSys\Model\bin\Debug\Model.pdb
+E:\毕业设计\我的毕业设计\3-24\HYTC_FoodOrderSys\Model\obj\Debug\Model.dll
+E:\毕业设计\我的毕业设计\3-24\HYTC_FoodOrderSys\Model\obj\Debug\Model.pdb
